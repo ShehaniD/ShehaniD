@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShehaniD
-- 👀 I’m interested in web development and mobile app development
-- 🌱 I’m currently learning Object Oriented Programming, Web Development and Mobile App development
+- 👋 Hi, I’m Shehani De Silva
+- 👀 I’m interested in problem solving, software development, web development and mobile app development
+- 🌱 I’m currently learning Object Oriented Programming, Data Structures Web Development and Mobile App development
 
 
 
